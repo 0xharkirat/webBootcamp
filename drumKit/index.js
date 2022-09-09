@@ -7,5 +7,6 @@ for (let i = 0; i < noOfDrumButtons; i++){
 
 
 function handleClick(){
-    alert("I got clicked!");
+    let audio = new Audio("sounds/tom-1.mp3");
+    audio.play();
 }
