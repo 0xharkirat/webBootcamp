@@ -1,3 +1,4 @@
 # webBootcamp
 
-Visit the website at https://harkirat2309.github.io/webBootcamp/Dicee%20Challenge%20-%20Starting%20Files/
+1. diceGame https://harkirat2309.github.io/webBootcamp/diceGame
+2. drumKit https://harkirat2309.github.io/webBootcamp/drumKit
